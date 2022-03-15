@@ -1,0 +1,132 @@
+.sedans {
+    background-color: hsl(31, 77%, 52%);
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+    margin-right: -4px;
+    text-align: left;
+   
+
+}
+.me {
+    width: 65%;
+    text-align: left;
+    padding-left: 40px;
+    padding-top: 30px;
+    
+}
+.suvs {
+    background-color:hsl(184, 100%, 22%);
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+    margin-right: -4px;
+    text-align: left;
+
+}
+.luxury {
+    background-color:hsl(179, 100%, 13%);
+    height: 500px;
+    width: 300px;
+    display: inline-block;
+    text-align: left;
+    
+
+}
+body {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+img {
+    padding-top: 10px;
+}
+.one {
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 2.5rem;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+.two {
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+    .btn {
+        background: hsla(0, 0%, 100%, 0.75);
+        background-image: -webkit-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+        background-image: -moz-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+        background-image: -ms-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+        background-image: -o-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+        background-image: linear-gradient(to bottom, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+        -webkit-border-radius: 28;
+        -moz-border-radius: 28;
+        border-radius: 28px;
+        font-family: 'Lexend Deca', sans-serif;
+        color: hsl(179, 100%, 13%);
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: hsl(0, 0%, 95%);
+        background-image: -webkit-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+        background-image: -moz-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+        background-image: -ms-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+        background-image: -o-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+        background-image: linear-gradient(to bottom, hsl(0, 0%, 95%), #e5e3c9);
+        text-decoration: none;
+      }
+      
+.sedan-btn {
+    background: hsla(0, 0%, 100%, 0.75);
+    background-image: -webkit-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+    background-image: -moz-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+    background-image: -ms-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+    background-image: -o-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+    background-image: linear-gradient(to bottom, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(31, 77%, 52%);
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .sedan-btn:hover {
+    background: hsl(0, 0%, 95%);
+    background-image: -webkit-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+    background-image: -moz-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+    background-image: -ms-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+    background-image: -o-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+    background-image: linear-gradient(to bottom, hsl(0, 0%, 95%), #e5e3c9);
+    text-decoration: none;
+}
+
+.suvs-btn {
+    background: hsla(0, 0%, 100%, 0.75);
+    background-image: -webkit-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+    background-image: -moz-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+    background-image: -ms-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+    background-image: -o-linear-gradient(top, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+    background-image: linear-gradient(to bottom, hsla(0, 0%, 100%, 0.75), hsla(0, 0%, 100%, 0.75));
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: hsl(184, 100%, 22%);
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .suvs-btn:hover {
+    background: hsl(0, 0%, 95%);
+    background-image: -webkit-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+    background-image: -moz-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+    background-image: -ms-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+    background-image: -o-linear-gradient(top, hsl(0, 0%, 95%), #e5e3c9);
+    background-image: linear-gradient(to bottom, hsl(0, 0%, 95%), #e5e3c9);
+    text-decoration: none;
+}
