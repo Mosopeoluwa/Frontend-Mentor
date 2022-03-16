@@ -1,4 +1,4 @@
-# Frontend Mentor - 3-column preview card component solution
+# Frontend Mentor 3-column preview card component solution
 
 This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -42,7 +42,7 @@ I learnt the skill of problem solving and debugging. The act of tasking my brain
 <link rel="icon" href="favicon-32x32.png">
 ```
 ```css
-.one {
+.heading {
     font-family: 'Big Shoulders Display', cursive;
     font-size: 2.5rem;
     color: hsla(0, 0%, 100%, 0.75);
